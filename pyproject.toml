@@ -1,0 +1,9 @@
+[project]
+name = "finance-tracker-api"
+version = "0.1.0"
+description = "REST API for tracking personal income and expenses built with FastAPI"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi[standard]>=0.165.0",
+]
